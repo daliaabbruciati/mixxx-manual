@@ -6,3 +6,7 @@
 build
 source/locale/pot/.doctrees
 /source/locale/en_US
+
+# IDEs
+.vscode
+.idea
